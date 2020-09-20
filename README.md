@@ -43,11 +43,14 @@ You can also:
 - Arduino Relay
 - Arduino TM1637 (Digital display)
 - Motor
+- Power supply for arduino board
 - Independent motor power supply
 - Reverse switch
 - Reed switch or contact button
 - Hall sensor 
 - Resistor 10 kOm
+- Main button
+- 2 small magnets
 
 ### Plugins
 

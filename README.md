@@ -1,6 +1,6 @@
 # Coil winder machine
 
-##### It helps make wires coil with define amount of turnover!
+##### It helps make wires coil with defined amount of turnover!
 ---
 
 ## Features
@@ -64,6 +64,8 @@ You need install plugins for Arduino IDE:
 ### Development
 
 Want to contribute? Great!
+
+See build example here...
 
 ## License
 
